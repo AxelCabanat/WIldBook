@@ -1,0 +1,15 @@
+button{
+    border-radius: 4px;
+    padding: 2px;
+}
+
+.selected {
+    border: #f76c6c 1px solid;
+    color: #ffffff;
+    background-color: #f76c6c;
+  }
+
+.unselected {
+    border: black 1px solid;
+    color: black;
+  }
